@@ -2,6 +2,7 @@
 using namespace std;
 class Data
 {
+    private:
     int x,y;
     protected:
     int z;
