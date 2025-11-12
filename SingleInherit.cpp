@@ -1,3 +1,4 @@
+//Single Inheritance Example in C++
 #include<iostream>
 using namespace std;
 class college
